@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2016 The Android Open Source Project
+<!-- Copyright (C) 2016-2019 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -26,5 +26,10 @@
          Defaults to true. If this is not appropriate for specific locales
          it should be disabled in that locale's resources. -->
     <!--bool name="config_buttonTextAllCaps">false</bool-->
+
+    <!-- Google Sans -->
+    <string name="config_headlineFontFamily">google-sans</string>
+    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
+    <string name="config_headlineFontFeatureSettings">ss03</string>
 
 </resources>
