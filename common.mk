@@ -7,8 +7,6 @@ DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common/
 # Fonts
 include vendor/themes/fonts.mk
 
-# Sounds
-include vendor/themes/sounds.mk
-
 # Themes
 #include vendor/themes/themes.mk
+
