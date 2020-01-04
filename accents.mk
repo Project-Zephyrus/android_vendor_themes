@@ -23,3 +23,25 @@ PRODUCT_PACKAGES += \
     AccentColorSpaceOverlay \
     AccentColorTealOverlay \
     AccentColorYellowOverlay
+
+# Brand Accents
+PRODUCT_PACKAGES += \
+    AccentColorAndroidOneGreenOverlay \
+    AccentColorCocaColaRedOverlay \
+    AccentColorDiscordPurpleOverlay \
+    AccentColorFacebookBlueOverlay \
+    AccentColorInstagramCeriseOverlay \
+    AccentColorJollibeeCrimsonOverlay \
+    AccentColorMonsterEnergyGreenOverlay \
+    AccentColorNextbitMintOverlay \
+    AccentColorOneplusRedOverlay \
+    AccentColorPepsiBlueOverlay \
+    AccentColorPocophoneYellowOverlay \
+    AccentColorRazerGreenOverlay \
+    AccentColorSamsungBlueOverlay \
+    AccentColorSpotifyGreenOverlay \
+    AccentColorStarbucksGreenOverlay \
+    AccentColorTwitchPurpleOverlay \
+    AccentColorTwitterBlueOverlay \
+    AccentColorXboxGreenOverlay \
+    AccentColorXiaomiOrangeOverlay
