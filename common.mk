@@ -12,3 +12,6 @@ include vendor/themes/fonts.mk
 
 # Icon Shapes
 include vendor/themes/iconshapes.mk
+
+# Themes
+include vendor/themes/themes.mk
