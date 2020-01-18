@@ -27,9 +27,8 @@
          it should be disabled in that locale's resources. -->
     <!--bool name="config_buttonTextAllCaps">false</bool-->
 
-    <!-- Google Sans -->
-    <string name="config_headlineFontFamily">google-sans</string>
-    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
-    <string name="config_headlineFontFeatureSettings">ss03</string>
+    <!-- Name of a font family to use for headlines. If empty, falls back to platform default -->
+    <string name="config_headlineFontFamily" translatable="false">sans-serif</string>
+    <string name="config_headlineFontFamilyMedium" translateable="false">sans-serif-medium</string>
 
 </resources>
