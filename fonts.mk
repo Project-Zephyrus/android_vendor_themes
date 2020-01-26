@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay
 
@@ -45,6 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/road_rage.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RoadRage-Regular.ttf \
     vendor/themes/fonts/prebuilt/Rosemary-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Rosemary-Regular.ttf \
     vendor/themes/fonts/prebuilt/SamsungOne.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SamsungOne.ttf \
+    vendor/themes/fonts/prebuilt/SanFranciscoDisplayPro.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SanFranciscoDisplayPro.ttf \
     vendor/themes/fonts/prebuilt/Shamshung.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Shamshung.ttf \
     vendor/themes/fonts/prebuilt/SlateFromOP-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Light.ttf \
     vendor/themes/fonts/prebuilt/SlateFromOP-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Regular.ttf \
