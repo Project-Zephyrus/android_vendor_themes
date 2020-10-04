@@ -15,11 +15,11 @@
 -->
 
 <resources>
-
 <!--
     <dimen name="config_dialogCornerRadius">8.0dip</dimen>
     <dimen name="config_buttonCornerRadius">4.0dip</dimen>
     <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
+    <dimen name="config_bottomDialogCornerRadius">16.0dip</dimen>
+    <item type="dimen" name="config_fullTaskSnapshotScale">0.8</item>
 -->
-
 </resources>

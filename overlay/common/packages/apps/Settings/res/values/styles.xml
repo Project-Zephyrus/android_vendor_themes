@@ -16,7 +16,7 @@
 
 <resources>
 
-    <style name="SuggestionCardText">
+    <!-- <style name="SuggestionCardText">
         <item name="android:textAlignment">center</item>
     </style>
 
@@ -30,6 +30,6 @@
 
     <style name="SuggestionCardButton">
         <item name="android:layout_gravity">center</item>
-    </style>
+    </style> -->
 
 </resources>
