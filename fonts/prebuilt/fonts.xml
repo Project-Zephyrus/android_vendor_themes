@@ -194,6 +194,20 @@
     <alias name="fantasy" to="lgsmartgothic" />
     <alias name="ITC Stone Serif" to="lgsmartgothic" />
 
+    <family name="linotte">
+	<font weight="300" style="normal">Linotte.ttf</font>
+    </family>
+    <alias name="linotte-semi-bold" to="linotte" weight="600" />
+    <alias name="linotte-bold" to="linotte" weight="700" />
+    <alias name="times" to="linotte" />
+    <alias name="times new roman" to="linotte" />
+    <alias name="palatino" to="linotte" />
+    <alias name="georgia" to="linotte" />
+    <alias name="baskerville" to="linotte" />
+    <alias name="goudy" to="linotte" />
+    <alias name="fantasy" to="linotte" />
+    <alias name="ITC Stone Serif" to="linotte" />
+
     <family name="mexcellent-sys">
         <font weight="300" style="normal">Mexcellent-Regular.ttf</font>
     </family>

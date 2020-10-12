@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     FontFiraSansSourceOverlay \
     FontGoogleSansSourceOverlay \
     FontLGSmartGothicSourceOverlay \
+    FontLinotteSourceOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
@@ -40,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/themes/fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
     vendor/themes/fonts/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
+    vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/themes/fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     vendor/themes/fonts/prebuilt/neoneon.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
     vendor/themes/fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
