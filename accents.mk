@@ -1,6 +1,7 @@
 # Accents
 PRODUCT_PACKAGES += \
     AccentColorAmberOverlay \
+    AccentColorAzureRadiance \
     AccentColorBlueOverlay \
     AccentColorBlueGreyOverlay \
     AccentColorBrownOverlay \
