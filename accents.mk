@@ -1,10 +1,13 @@
 # Accents
 PRODUCT_PACKAGES += \
+    AccentColorAmethystOverlay \
     AccentColorAmberOverlay \
+    AccentColorAquamarineOverlay \
     AccentColorAzureRadiance \
     AccentColorBlueOverlay \
     AccentColorBlueGreyOverlay \
     AccentColorBrownOverlay \
+    AccentColorCarbonOverlay \
     AccentColorCinnamonOverlay \
     AccentColorCyanOverlay \
     AccentColorDeepOrangeOverlay \
@@ -18,10 +21,13 @@ PRODUCT_PACKAGES += \
     AccentColorOceanOverlay \
     AccentColorOrangeOverlay \
     AccentColorOrchidOverlay \
+    AccentColorPaletteOverlay \
     AccentColorPinkOverlay \
     AccentColorPurpleOverlay \
     AccentColorRedOverlay \
+    AccentColorSandOverlay \
     AccentColorSpaceOverlay \
+    AccentColorTangerineOverlay \
     AccentColorTealOverlay \
     AccentColorYellowOverlay
 
