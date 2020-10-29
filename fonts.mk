@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     FontCoolstorySourceOverlay \
     FontFiraSansSourceOverlay \
     FontGoogleSansSourceOverlay \
+    FontInterSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontLinotteSourceOverlay \
     FontOneplusSlateSource \
@@ -40,6 +41,12 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     vendor/themes/fonts/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/themes/fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
+    vendor/themes/fonts/prebuilt/Inter-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-BoldItalic.ttf \
+    vendor/themes/fonts/prebuilt/Inter-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Bold.ttf \
+    vendor/themes/fonts/prebuilt/Inter-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Italic.ttf \
+    vendor/themes/fonts/prebuilt/Inter-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-MediumItalic.ttf \
+    vendor/themes/fonts/prebuilt/Inter-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Medium.ttf \
+    vendor/themes/fonts/prebuilt/Inter-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Regular.ttf \
     vendor/themes/fonts/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
     vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/themes/fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \

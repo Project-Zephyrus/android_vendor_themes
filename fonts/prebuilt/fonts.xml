@@ -180,6 +180,16 @@
     <alias name="fantasy" to="googlesans" />
     <alias name="ITC Stone Serif" to="googlesans" />
 
+    <family name="inter">
+        <font weight="400" style="normal">Inter-Regular.ttf</font>
+        <font weight="400" style="italic">Inter-Italic.ttf</font>
+        <font weight="500" style="normal">Inter-Medium.ttf</font>
+        <font weight="500" style="italic">Inter-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Inter-Bold.ttf</font>
+        <font weight="700" style="italic">Inter-BoldItalic.ttf</font>
+    </family>
+    <alias name="inter-medium" to="inter" weight="500" />
+
     <family name="lgsmartgothic">
         <font weight="300" style="normal">LGSmartGothic.ttf</font>
     </family>
