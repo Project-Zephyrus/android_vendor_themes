@@ -21,6 +21,7 @@ LOCAL_RRO_THEME := AccentColorAmethyst
 
 LOCAL_PRODUCT_MODULE := true
 
+
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
 LOCAL_PACKAGE_NAME := AccentColorAmethystOverlay

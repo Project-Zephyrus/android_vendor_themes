@@ -3,7 +3,7 @@ PRODUCT_PACKAGES += \
     AccentColorAmethystOverlay \
     AccentColorAmberOverlay \
     AccentColorAquamarineOverlay \
-    AccentColorAzureRadiance \
+    AccentColorAzureRadianceOverlay \
     AccentColorBlackOverlay \
     AccentColorBlueOverlay \
     AccentColorBlueGreyOverlay \

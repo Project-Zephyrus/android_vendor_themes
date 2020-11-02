@@ -16,6 +16,6 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Black accent color name application label. [CHAR LIMIT=50] -->
-    <string name="accent_color_overlay_name" translatable="false">Carbon</string>
+    <string name="accent_color_carbon_overlay" translatable="false">Carbon</string>
 </resources>
 
