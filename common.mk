@@ -1,5 +1,5 @@
 # Fonts
 include vendor/themes/fonts.mk
 
-# Icon Packs
+# Icons
 include vendor/themes/iconpacks.mk
