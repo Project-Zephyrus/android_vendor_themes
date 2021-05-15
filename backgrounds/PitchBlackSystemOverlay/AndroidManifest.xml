@@ -19,7 +19,7 @@
           package="com.android.theme.pitchblack.system"
           android:versionCode="1"
           android:versionName="1.0">
-    <overlay android:targetPackage="android" android:category="android.theme.customization.accent_color" android:priority="1"/>
+    <overlay android:targetPackage="android" android:category="android.theme.customization.primary_color" android:priority="1"/>
 
-    <application android:label="PitchBlackSystem" android:hasCode="false"/>
+    <application android:label="PitchBlack" android:hasCode="false"/>
 </manifest>

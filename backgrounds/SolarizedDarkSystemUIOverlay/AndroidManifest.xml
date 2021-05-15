@@ -19,7 +19,7 @@
           package="com.android.theme.solarizeddark.systemui"
           android:versionCode="1"
           android:versionName="1.0">
-    <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.accent_color" android:priority="1"/>
+    <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.primary_color" android:priority="1"/>
 
-    <application android:label="SolarizedDarkSystemUI" android:hasCode="false"/>
+    <application android:label="SolarizedDark" android:hasCode="false"/>
 </manifest>
