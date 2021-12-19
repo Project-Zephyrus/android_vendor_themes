@@ -1,3 +1,5 @@
+LOCAL_PATH := vendor/themes
+
 # Fonts
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/themes/fonts//prebuilt,$(TARGET_COPY_OUT_PRODUCT)/fonts) \
@@ -9,4 +11,26 @@ PRODUCT_PACKAGES += \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
-    FontOneplusSlateSourceOverlay
+    FontOneplusSlateSourceOverlay \
+    FontAppleMintOverlay \
+    FontCartoonistHandOverlay \
+    FontChinacatOverlay \
+    FontLatoOverlay \
+    FontRobotoOrigOverlay \
+    FontRosemaryOverlay \
+    FontRubikOverlay \
+    FontSanFransiscoOverlay \
+    FontSlateProOverlay \
+    FontZillaSlabOverlay \
+    FontCherrySwash \
+    FontCocon \
+    FontCoreMellow \
+    FontDisney \
+    FontFucek \
+    FontGoogleSans \
+    FontLemon \
+    FontNetFlixSans \
+    FontRobotoCondensed \
+    FontSamsungSans \
+    FontSimpleDay \
+    FontUbuntu

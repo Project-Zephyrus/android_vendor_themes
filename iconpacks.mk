@@ -1,3 +1,5 @@
+LOCAL_PATH := vendor/themes
+
 # Icon shape overlays
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \

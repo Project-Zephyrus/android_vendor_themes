@@ -568,4 +568,184 @@
         </font>
     </family>
     <alias name="roboto-system-medium" to="roboto-system" weight="500" />
+
+   <family customizationType="new-named-family" name="SlatePro">
+      <font weight="400" style="normal">SlateProSans-Regular.ttf</font>
+      <font weight="400" style="italic">SlateProSans-Italic.ttf</font>
+      <font weight="500" style="normal">SlatePro-Medium.ttf</font>
+      <font weight="500" style="italic">SlatePro-MediumItalic.ttf</font>
+      <font weight="600" style="normal">SlatePro-SemiBold.ttf</font>
+      <font weight="600" style="italic">SlatePro-SemiBoldItalic.ttf</font>
+    </family>
+    <alias name="SlatePro-medium" to="SlatePro-medium" weight="500" />
+
+   <family customizationType="new-named-family" name="SanFransisco">
+      <font weight="400" style="normal">SanFransisco-Regular.ttf</font>
+      <font weight="500" style="normal">SanFransisco-Medium.ttf</font>
+      <font weight="500" style="italic">SanFransisco-MediumItalic.ttf</font>
+      <font weight="600" style="normal">SanFransisco-SemiBold.ttf</font>
+      <font weight="600" style="italic">SanFransisco-SemiBoldItalic.ttf</font>
+    </family>
+    <alias name="SanFransisco-medium" to="SanFransisco" weight="500" />
+
+    <family customizationType="new-named-family" name="AppleMint">
+      <font weight="400" style="normal">AppleMint-Regular.ttf</font>
+      <font weight="400" style="italic">AppleMint-Italic.ttf</font>
+      <font weight="500" style="normal">AppleMint-Medium.ttf</font>
+      <font weight="500" style="italic">AppleMint-MediumItalic.ttf</font>
+      <font weight="700" style="normal">AppleMint-Bold.ttf</font>
+      <font weight="700" style="italic">AppleMint-BoldItalic.ttf</font>
+    </family>
+    <alias name="AppleMint-medium" to="AppleMint" weight="500" />
+
+    <family customizationType="new-named-family" name="CartoonistHand">
+      <font weight="500" style="normal">CartoonistHand-Regular.ttf</font>
+      <font weight="500" style="italic">CartoonistHand-Italic.ttf</font>
+      <font weight="600" style="normal">CartoonistHand-Medium.ttf</font>
+      <font weight="600" style="italic">CartoonistHand-MediumItalic.ttf</font>
+      <font weight="700" style="normal">CartoonistHand-Bold.ttf</font>
+      <font weight="700" style="italic">CartoonistHand-BoldItalic.ttf</font>
+    </family>
+    <alias name="CartoonistHand-medium" to="CartoonistHand" weight="600" />
+
+    <family customizationType="new-named-family" name="Chinacat">
+      <font weight="400" style="normal">Chinacat-Regular.ttf</font>
+      <font weight="400" style="italic">Chinacat-Italic.ttf</font>
+      <font weight="500" style="normal">Chinacat-Medium.ttf</font>
+      <font weight="500" style="italic">Chinacat-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Chinacat-Bold.ttf</font>
+      <font weight="700" style="italic">Chinacat-BoldItalic.ttf</font>
+    </family>
+    <alias name="Chinacat-medium" to="Chinacat" weight="500" />
+
+    <family customizationType="new-named-family" name="Rosemary">
+      <font weight="400" style="normal">Rosemary-Regular.ttf</font>
+      <font weight="400" style="italic">Rosemary-Italic.ttf</font>
+      <font weight="500" style="normal">Rosemary-Medium.ttf</font>
+      <font weight="500" style="italic">Rosemary-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Rosemary-Bold.ttf</font>
+      <font weight="700" style="italic">Rosemary-BoldItalic.ttf</font>
+    </family>
+    <alias name="Rosemary-medium" to="Rosemary" weight="500" />
+
+    <family customizationType="new-named-family" name="RobotoOrig">
+      <font weight="400" style="normal">RobotoOrig-Regular.ttf</font>
+      <font weight="400" style="italic">RobotoOrig-Italic.ttf</font>
+      <font weight="500" style="normal">RobotoOrig-Medium.ttf</font>
+      <font weight="500" style="italic">RobotoOrig-MediumItalic.ttf</font>
+      <font weight="700" style="normal">RobotoOrig-Bold.ttf</font>
+      <font weight="700" style="italic">RobotoOrig-BoldItalic.ttf</font>
+    </family>
+    <alias name="RobotoOrig-medium" to="RobotoOrig" weight="500" />
+
+    <family customizationType="new-named-family" name="SamsungSans">
+      <font weight="400" style="normal">Samsung-Regular.ttf</font>
+      <font weight="400" style="italic">Samsung-Italic.ttf</font>
+      <font weight="500" style="normal">Samsung-Medium.ttf</font>
+      <font weight="500" style="italic">Samsung-MediumItalic.ttf</font>
+      <font weight="600" style="normal">Samsung-SemiBold.ttf</font>
+      <font weight="600" style="italic">Samsung-SemiBoldItalic.ttf</font>
+    </family>
+    <alias name="samsung-bold" to="samsung" weight="600" />
+
+    <family customizationType="new-named-family" name="cherryswash">
+	<font weight="400" style="normal">CherrySwash-Regular.ttf</font>
+	<font weight="400" style="italic">CherrySwash-Italic.ttf</font>
+	<font weight="500" style="normal">CherrySwash-Medium.ttf</font>
+	<font weight="500" style="italic">CherrySwash-MediumItalic.ttf</font>
+	<font weight="700" style="normal">CherrySwash-Bold.ttf</font>
+	<font weight="700" style="italic">CherrySwash-BoldItalic.ttf</font>
+    </family>
+    <alias name="cherryswash-medium" to="cherryswash" weight="500" />
+
+    <family customizationType="new-named-family" name="cocon">
+	<font weight="400" style="normal">Cocon-Regular.ttf</font>
+	<font weight="400" style="italic">Cocon-Italic.ttf</font>
+	<font weight="500" style="normal">Cocon-Medium.ttf</font>
+	<font weight="500" style="italic">Cocon-MediumItalic.ttf</font>
+	<font weight="700" style="normal">Cocon-Bold.ttf</font>
+	<font weight="700" style="italic">Cocon-BoldItalic.ttf</font>
+    </family>
+    <alias name="cocon-medium" to="cocon" weight="500" />
+
+    <family customizationType="new-named-family" name="Disney">
+	<font weight="400" style="normal">Disney-Regular.ttf</font>
+	<font weight="400" style="italic">Disney-Italic.ttf</font>
+	<font weight="500" style="normal">Disney-Medium.ttf</font>
+	<font weight="500" style="italic">Disney-MediumItalic.ttf</font>
+	<font weight="700" style="normal">Disney-Bold.ttf</font>
+	<font weight="700" style="italic">Disney-BoldItalic.ttf</font>
+    </family>
+    <alias name="Disney-medium" to="disney" weight="500" />
+
+    <family customizationType="new-named-family" name="condensed">
+	<font weight="400" style="normal">Condensed-Regular.ttf</font>
+	<font weight="400" style="italic">Condensed-Italic.ttf</font>
+	<font weight="500" style="normal">Condensed-Medium.ttf</font>
+	<font weight="500" style="italic">Condensed-MediumItalic.ttf</font>
+	<font weight="700" style="normal">Condensed-Bold.ttf</font>
+	<font weight="700" style="italic">Condensed-BoldItalic.ttf</font>
+    </family>
+    <alias name="condensed-medium" to="condensed" weight="500" />
+
+    <family customizationType="new-named-family" name="simpleday">
+      <font weight="400" style="normal">SimpleDay-Regular.ttf</font>
+      <font weight="400" style="italic">SimpleDay-Italic.ttf</font>
+      <font weight="500" style="normal">SimpleDay-Medium.ttf</font>
+      <font weight="500" style="italic">SimpleDay-MediumItalic.ttf</font>
+      <font weight="700" style="normal">SimpleDay-Bold.ttf</font>
+      <font weight="700" style="italic">SimpleDay-BoldItalic.ttf</font>
+    </family>
+    <alias name="simpleday-medium" to="simpleday" weight="500" />
+    
+    <family customizationType="new-named-family" name="fucek">
+      <font weight="400" style="normal">Fucek-Regular.ttf</font>
+      <font weight="400" style="italic">Fucek-Italic.ttf</font>
+      <font weight="500" style="normal">Fucek-Medium.ttf</font>
+      <font weight="500" style="italic">Fucek-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Fucek-Bold.ttf</font>
+      <font weight="700" style="italic">Fucek-BoldItalic.ttf</font>
+    </family>
+    <alias name="fucek-medium" to="fucek" weight="500" />
+    
+    <family customizationType="new-named-family" name="lemonmilk">
+      <font weight="400" style="normal">LemonMilk-Regular.ttf</font>
+      <font weight="400" style="italic">LemonMilk-Italic.ttf</font>
+      <font weight="500" style="normal">LemonMilk-Medium.ttf</font>
+      <font weight="500" style="italic">LemonMilk-MediumItalic.ttf</font>
+      <font weight="700" style="normal">LemonMilk-Bold.ttf</font>
+      <font weight="700" style="italic">LemonMilk-BoldItalic.ttf</font>
+    </family>
+    <alias name="lemonmilk-medium" to="lemonmilk" weight="500" />
+    
+    <family customizationType="new-named-family" name="ubuntu">
+      <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
+      <font weight="400" style="italic">Ubuntu-Italic.ttf</font>
+      <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
+      <font weight="500" style="italic">Ubuntu-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
+      <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
+    </family>
+    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
+    
+    <family customizationType="new-named-family" name="netflixsans">
+      <font weight="400" style="normal">NetFlixSans-Regular.ttf</font>
+      <font weight="400" style="italic">NetFlixSans-Italic.ttf</font>
+      <font weight="500" style="normal">NetFlixSans-Medium.ttf</font>
+      <font weight="500" style="italic">NetFlixSans-MediumItalic.ttf</font>
+      <font weight="700" style="normal">NetFlixSans-Bold.ttf</font>
+      <font weight="700" style="italic">NetFlixSans-BoldItalic.ttf</font>
+    </family>
+    <alias name="netflixsans-medium" to="netflixsans" weight="500" />
+    
+    <family customizationType="new-named-family" name="coremellow">
+      <font weight="400" style="normal">CoreMellow-Regular.ttf</font>
+      <font weight="400" style="italic">CoreMellow-Italic.ttf</font>
+      <font weight="500" style="normal">CoreMellow-Medium.ttf</font>
+      <font weight="500" style="italic">CoreMellow-MediumItalic.ttf</font>
+      <font weight="700" style="normal">CoreMellow-Bold.ttf</font>
+      <font weight="700" style="italic">CoreMellow-BoldItalic.ttf</font>
+    </family>
+    <alias name="coremellow-medium" to="coremellow" weight="500" />
+
 </fonts-modification>
