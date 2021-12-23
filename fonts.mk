@@ -16,21 +16,13 @@ PRODUCT_PACKAGES += \
     FontCartoonistHandOverlay \
     FontChinacatOverlay \
     FontLatoOverlay \
-    FontRobotoOrigOverlay \
     FontRosemaryOverlay \
-    FontRubikOverlay \
     FontSanFransiscoOverlay \
     FontSlateProOverlay \
     FontZillaSlabOverlay \
-    FontCherrySwash \
-    FontCocon \
     FontCoreMellow \
-    FontDisney \
     FontFucek \
-    FontGoogleSans \
     FontLemon \
-    FontNetFlixSans \
-    FontRobotoCondensed \
     FontSamsungSans \
     FontSimpleDay \
     FontUbuntu
