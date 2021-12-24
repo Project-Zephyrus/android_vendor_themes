@@ -25,4 +25,15 @@ PRODUCT_PACKAGES += \
     FontLemon \
     FontSamsungSans \
     FontSimpleDay \
-    FontUbuntu
+    FontUbuntu \
+    FontBariolSourceOverlay \
+    FontAclonicaSourceOverlay \
+    FontAmaranteSourceOverlay \
+    FontCagliostroSourceOverlay \
+    FontComfortaaSourceOverlay \
+    FontComicSansSourceOverlay \
+    FontCoolstorySourceOverlay \
+    FontLGSmartGothicSourceOverlay \
+    FontSamsungOneSourceOverlay \
+    FontSonySketchSourceOverlay \
+    FontSurferSourceOverlay
