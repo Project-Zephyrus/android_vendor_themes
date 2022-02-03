@@ -35,4 +35,5 @@ PRODUCT_PACKAGES += \
     FontLGSmartGothicSourceOverlay \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay
+    FontSurferSourceOverlay \
+    FontStoropiaOverlay

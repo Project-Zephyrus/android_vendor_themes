@@ -683,4 +683,12 @@
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500" />
 
+    <!-- Storopia -->
+    <family customizationType="new-named-family" name="storopia">
+        <font weight="400" style="normal">Storopia.ttf</font>
+    </family>
+    <alias name="storopia-medium" to="storopia" weight="500" />
+    <alias name="storopia-semi-bold" to="storopia" weight="600" />
+    <alias name="storopia-bold" to="storopia" weight="700" />
+
 </fonts-modification>
