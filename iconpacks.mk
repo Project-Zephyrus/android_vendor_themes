@@ -21,3 +21,7 @@ PRODUCT_PACKAGES += \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
     BarsWiFiOverlay
+
+# ThemesIcons
+PRODUCT_PACKAGES += \
+    ThemedIconsOverlay
