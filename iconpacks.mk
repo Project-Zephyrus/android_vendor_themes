@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     WavySignalOverlay \
     RoundSignalOverlay \
     InsideSignalOverlay \
+    DoraSignalOverlay \
     BarsSignalOverlay
 
 # Wi-Fi Icons
@@ -21,6 +22,7 @@ PRODUCT_PACKAGES += \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
     WeedWiFiOverlay \
+    DoraWiFiOverlay \
     BarsWiFiOverlay
 
 # ThemesIcons
