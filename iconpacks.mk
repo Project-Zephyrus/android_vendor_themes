@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
+    WeedWiFiOverlay \
     BarsWiFiOverlay
 
 # ThemesIcons
