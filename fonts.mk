@@ -36,4 +36,5 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay \
-    FontStoropiaOverlay
+    FontStoropiaOverlay \
+    FontNothiingDotOverlay
