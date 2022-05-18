@@ -1,3 +1,4 @@
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay \
+    AndroidBlackThemeOverlayFwb \
+    AndroidBlackThemeOverlaySysUI
