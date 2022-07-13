@@ -38,4 +38,5 @@ PRODUCT_PACKAGES += \
     FontSurferSourceOverlay \
     FontStoropiaOverlay \
     FontNothiingDotOverlay \
-    FontOppoSansOverlay
+    FontOppoSansOverlay \
+    FontProductSansVHOverlay
