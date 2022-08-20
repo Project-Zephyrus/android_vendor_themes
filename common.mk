@@ -7,3 +7,6 @@ PRODUCT_PACKAGES += \
 
 # Themes
 include vendor/themes/themes.mk
+
+# Icon Packs
+include vendor/themes/iconpack.mk
